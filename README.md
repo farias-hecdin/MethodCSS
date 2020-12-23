@@ -1,4 +1,6 @@
-# ApunteCSS: Un vistazo a las metodologías CSS, novedades y recursos
+# ApunteCSS:
+
+Un vistazo a las metodologías CSS, novedades y recursos
 
 ## Lista de metodologías CSS
 
