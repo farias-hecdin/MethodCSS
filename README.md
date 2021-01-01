@@ -32,6 +32,12 @@ Un vistazo a las metodologías CSS, novedades y recursos
 
 * SUIT CSS: <http://suitcss.github.io>
 
+* OPOR *(new)*: <https://blog.sapegin.me/all/opor-methodology/>
+
+* SEM CSS *(new)*: coming soon..
+
+* BEMA CSS *(new)*: coming soon..
+
 ### Paradigmas y guías de estilos
 
 * ITCSS: <https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528>
@@ -39,6 +45,8 @@ Un vistazo a las metodologías CSS, novedades y recursos
 * Atomic design: <https://atomicdesign.bradfrost.com>
 
 * CSS guidelines <https://cssguidelin.es>
+
+* FLOCSS *(new)*: <https://github.com/hiloki/flocss/blob/master/README_eng.md>
 
 ### Metodologías enfocadas en Pre y Post procesador
 
