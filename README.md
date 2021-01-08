@@ -38,7 +38,7 @@ Un vistazo a las metodologías CSS, novedades y recursos
 
 * BEMA CSS *(coming soon)*
 
-* abvCSS *(new)*: <https://abvcss.github.io/abvcss-website/?fbclid=IwAR3vLiAzpe2YjsHxcpDQ_tLZLEng2gOMyZONF5r2m_VMH_jhnDtZ9ZFGuKI>
+* abvCSS *(new)*: <https://abvcss.github.io/abvcss-website/>
 
 * PRECSS *(new)*: <https://precss.io/ja/>
 
