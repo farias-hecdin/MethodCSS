@@ -32,11 +32,15 @@ Un vistazo a las metodologías CSS, novedades y recursos
 
 * SUIT CSS: <http://suitcss.github.io>
 
-* OPOR *(new)*: <https://blog.sapegin.me/all/opor-methodology/>
+* OPOR: <https://blog.sapegin.me/all/opor-methodology/>
 
-* SEM CSS *(new)*: coming soon..
+* SEM CSS *(coming soon)*
 
-* BEMA CSS *(new)*: coming soon..
+* BEMA CSS *(coming soon)*
+
+* abvCSS *(new)*: <https://abvcss.github.io/abvcss-website/?fbclid=IwAR3vLiAzpe2YjsHxcpDQ_tLZLEng2gOMyZONF5r2m_VMH_jhnDtZ9ZFGuKI>
+
+* PRECSS *(new)*: <https://precss.io/ja/>
 
 ### Paradigmas y guías de estilos
 
