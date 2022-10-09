@@ -1,4 +1,4 @@
-# MethodCSS:
+# MethodCSS
 
 > Un recopilatorio de las metodologías, guías de estilos, entre otros recursos sobre lenguaje de estilo CSS.
 
@@ -32,5 +32,5 @@
 - ITCSS: <https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528>
 - Atomic design: <https://atomicdesign.bradfrost.com>
 - CSS guidelines <https://cssguidelin.es>
-- FLOCSS *(new)*: <https://github.com/hiloki/flocss/blob/master/README_eng.md>
+- FLOCSS: <https://github.com/hiloki/flocss/blob/master/README_eng.md>
 
