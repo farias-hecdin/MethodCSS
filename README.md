@@ -14,10 +14,12 @@
 - Atomic CSS: <https://acss.io>
 - MaintainableCSS: <https://maintainablecss.com>
 - MCSS: <https://operatino.github.io/MCSS/en>
+- North: <http://pointnorth.io/#north>
 - AMCSS: <https://amcss.github.io>
 - C3 CSS: <https://c3css.com>
 - CUBE CSS: <https://piccalil.li/blog/cube-css>
 - SUIT CSS: <http://suitcss.github.io>
+- Kickoff: <http://trykickoff.com/learn/css.html>
 - OPOR: <https://blog.sapegin.me/all/opor-methodology/>
 - bvCSS: <https://abvcss.github.io/abvcss-website/>
 - PRECSS: <https://precss.io/ja/>
