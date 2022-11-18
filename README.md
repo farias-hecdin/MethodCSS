@@ -4,8 +4,8 @@
 
 ## Lista de metodologías CSS
 
-* BEM – <https://en.bem.info>
-* BEMIT (BEM + ITCSS) – <https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further>
+* BEM – [https://bem.info](https://en.bem.info)
+* BEMIT (BEM + ITCSS) – [https://csswizardry.com/...](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further)
 * ABEM (Atomic design + BEM) – <https://css-tricks.com/abem-useful-adaptation-bem>
 * ECSS – <https://ecss.benfrain.com>
 * RCSS – <https://rscss.io/index.html>
