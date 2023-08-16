@@ -37,3 +37,7 @@ In this repository you will find a list of CSS naming conventions and methodolog
 * Google CSS style guide by [google.github.io](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 
 You can find more useful resources at [Awesome CSS](https://github.com/awesome-css-group/awesome-css).
+
+## License
+
+MethodCSS is under the MIT license. See the `LICENSE` file for more information
