@@ -2,7 +2,7 @@
 
 In this repository you will find a list of CSS naming conventions and methodologies that can help you standardize your CSS code to improve readability and maintainability of your projects.
 
-## List of CSS methodologies
+## 🗒️ List of CSS methodologies
 
 * ABEM (Atomic design + BEM) by [css-tricks.com](https://css-tricks.com/abem-useful-adaptation-bem)
 * AMCSS by [amcss.github.io](https://amcss.github.io)
@@ -29,7 +29,7 @@ In this repository you will find a list of CSS naming conventions and methodolog
 * CSStyle by [csstyle.io](https://www.csstyle.io)
 * DoCSSa by [mlarcher.github.io/docssa](https://mlarcher.github.io/docssa/)
 
-## List of style guides and CSS code organization
+## 🗒️ List of style guides and CSS code organization
 
 * ITCSS by [creativebloq.com](https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
 * Atomic design by [atomicdesign.bradfrost.com](https://atomicdesign.bradfrost.com)
@@ -38,6 +38,6 @@ In this repository you will find a list of CSS naming conventions and methodolog
 
 You can find more useful resources at [Awesome CSS](https://github.com/awesome-css-group/awesome-css).
 
-## License
+## 🛡️ License
 
 MethodCSS is under the MIT license. See the `LICENSE` file for more information
