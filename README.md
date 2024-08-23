@@ -23,11 +23,13 @@ In this repository you will find a list of CSS naming conventions and methodolog
 * SUIT CSS by [suitcss.github.io](http://suitcss.github.io)
 * BvCSS by [abvcss.github.io](https://abvcss.github.io/abvcss-website/)
 * Title CSS by [sitepoint.com](https://www.sitepoint.com/title-css-simple-approach-css-class-naming)
+* TAC by [Jordan Brennan](https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology)
 
 ### List of CSS preprocessor-focused methodologies
 
 * CSStyle by [csstyle.io](https://www.csstyle.io)
 * DoCSSa by [mlarcher.github.io/docssa](https://mlarcher.github.io/docssa/)
+* Weak CSS by [github.com/GlobalWebIndex](https://github.com/GlobalWebIndex/weak-css)
 
 ## 🗒️ List of style guides and CSS code organization
 
